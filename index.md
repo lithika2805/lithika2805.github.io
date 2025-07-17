@@ -18,10 +18,13 @@ Tools: Keil uVision, Proteus, RTOS (FreeRTOS), ThingSpeak
 Concepts: Real-Time Systems, Sensor Interfacing, Power Management, IoT, Federated Learning
 
 💡 Projects
+
 🚘 Automotive ECU Communication using CAN
 CAN-based communication between two ECUs for controlling vehicle indicators and headlights using LPC2129, Keil, and vector boards.
+
 🩺 IoT Smart Drip Monitoring with Federated Learning
 Biomedical sensors with ESP32 & IFTTT for real-time vitals tracking. Ensured data privacy using Federated Learning. Wi-Fi enabled alerts.
+
 ⛏️ Smart Air Quality Monitor for Underground Mines
 Real-time gas monitoring using ESP32 and AI (PCA + CNN) to detect CH₄, CO, SO₂, H₂S. Cloud-based alerting system for miners.
 
