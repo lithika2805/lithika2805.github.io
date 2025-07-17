@@ -11,12 +11,14 @@ Hey there, I'm Lithika S 👋
        I'm a final-year Electronics and Communication Engineering student passionate about building smart, real-world embedded solutions. With hands-on experience in microcontroller programming (LPC2129, ESP32), CAN bus communication, and real-time systems, I love translating ideas into functional hardware-driven projects.
        
 💼 About Me
+
 - 🎓 B.E. in ECE @ Adhiyamaan College of Engineering, Hosur
 - 🔁 Interned at Ashok Leyland & Titan Company Ltd
 - 📍 Based in Hosur | Open to relocate (Chennai, Bengaluru, Hyderabad, Pondicherry)
 - 🕒 Available for Immediate Joining
 
 🛠️ Tech Stack
+
 Languages: Embedded C, C++, Python (Basics)  
 Microcontrollers: ARM7TDMI - LPC2129, ESP32  
 Protocols: UART, SPI, I2C, CAN, TCP/IP  
@@ -24,6 +26,7 @@ Tools: Keil uVision, Proteus, RTOS (FreeRTOS), ThingSpeak
 Concepts: Real-Time Systems, Sensor Interfacing, Power Management, IoT, Federated Learning
 
 💡 Projects
+
 🚘 Automotive ECU Communication using CAN
 CAN-based communication between two ECUs for controlling vehicle indicators and headlights using LPC2129, Keil, and vector boards.
 🩺 IoT Smart Drip Monitoring with Federated Learning
@@ -32,12 +35,14 @@ Biomedical sensors with ESP32 & IFTTT for real-time vitals tracking. Ensured dat
 Real-time gas monitoring using ESP32 and AI (PCA + CNN) to detect CH₄, CO, SO₂, H₂S. Cloud-based alerting system for miners.
 
 🧪 Internships
+
 Ashok Leyland – Automotive Embedded Systems (July 2024)  
 - ECU Testing | CAN Communication | Debugging Real-Time Systems
 Titan Company Limited – Sensor & PCB Development (June 2023)  
 - PCB Testing | Sensor Interfacing | ARM MCU Projects
 
 📜 Certifications
+
 - Deep Learning Onramp – MathWorks  
 - Machine Learning – DevTown  
 - Artificial Intelligence – DevTown  
@@ -47,5 +52,6 @@ Titan Company Limited – Sensor & PCB Development (June 2023)
 
 Email: lithika9363@gmail.com  
 LinkedIn: https://www.linkedin.com/in/lithika-suresh-072764280/
+Number: +91 9003353610 
 
 "Designing intelligent systems that impact the real world – one line of embedded code at a time."
